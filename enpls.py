@@ -1,1 +1,5 @@
-#TODO: write enpls class
+'''
+This is an implementation of Ensemble Partial Least Squares Regression
+'''
+
+import numpy as np
